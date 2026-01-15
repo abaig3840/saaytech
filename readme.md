@@ -36,5 +36,5 @@ t_crypto < t_physical: Crypto validation precedes physics
 - Code drops soon: 
 
 ---
-**Sovereign Architecture (BU=S) © 2026 abaig60156**  
+**Sovereign Architecture (BU=S) © 2026 abaig3840**  
 *Code: MIT License | Axioms: Attribution Required*
